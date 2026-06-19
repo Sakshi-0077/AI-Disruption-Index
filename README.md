@@ -17,7 +17,7 @@ This project analyzes the impact of Artificial Intelligence on careers, industri
 * Pandas
 * NumPy
 * Matplotlib
-* Jupyter Notebook
+* Colab Notebook
 
 ## Project Workflow
 
